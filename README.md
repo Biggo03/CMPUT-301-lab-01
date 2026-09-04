@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** Viggo Wozniak
-- **CCID:** Viggo
+- **CCID:** viggo
 
 ## References and Resources
 - This base repository
